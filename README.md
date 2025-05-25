@@ -5,3 +5,5 @@ Use this link to run the code in your browser:
 https://agrawalradhika04.github.io/webgl-rasterizer/
 
 (Done as part of the course CS 390: Computer Graphics - HW 1)
+
+Note: The files in the Common folder (initShaders.js and MVnew.js) were provided in class as part of the course framework.
